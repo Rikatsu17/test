@@ -1,0 +1,9 @@
+import java.util.Scanner;
+public class task1 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int[] array = new int[10];
+        double[] array2 = new double[10];
+        scanner.close();
+    }
+}
